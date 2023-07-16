@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Isaac Aguiar 👋
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando React e Typescript
+- 🔭 Hoje trabalho com Back-End
+- 🌱 Estudando Next.Js, Typescript e Java
 
 <div align="center">
   <a href="https://github.com/AguiarIsaac">
