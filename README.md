@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Isaac Aguiar 👋
 
 - 🔭 Atualmente trabalho com JavaScript, Typescript, React, Java e Banco de dados Oracle
-- 🌱 Estudando Next.Js, Typescript e Java
 
 <div align="center">
   <a href="https://github.com/AguiarIsaac">
