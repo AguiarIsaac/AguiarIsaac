@@ -1,13 +1,13 @@
 ### Olá! Eu sou o Isaac Aguiar 👋
 
 - 🔭 Atualmente sou desenvolvedor Jr. Trabalho com soluções Back-end utilizando Java e soluções Front-end utilizando React e Angular. Para ajudar na organização, CI/CD, utilizo o Azure Devops.
-- 📚 Atualmente estou estudando Angular e Docker.
+- 📚 Atualmente estou Fazendo pós graduação em engenharia de software.
   
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/AguiarIsaac">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AguiarIsaac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguiarIsaac&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Aguiar-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
